@@ -1,5 +1,8 @@
 ---
 layout: home
+title: SoftwareModder
+subtitle: test123
+button: 1
 ---
 
 # Welcome to My Beautiful Jekyll Website
